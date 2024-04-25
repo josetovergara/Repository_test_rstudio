@@ -8,4 +8,4 @@ C=1
 U=16
 TITULOS_UC= U+C
 
-print ("Vaaaaamo UC")
+print ("Vaaaaamo UC, Católica tiene",TITULOS_UC, "Campeonatos")
